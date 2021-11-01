@@ -1,8 +1,5 @@
-# Market A
-- avocado: 1.35 per unit
-- lime; 0.64 per unit
-- salt: 2 per kg
-
-
-
-
+# Ingredients
+- avocado: $1.00
+- lime;    $1.00
+- salt:    $0.50
+# Instructions
